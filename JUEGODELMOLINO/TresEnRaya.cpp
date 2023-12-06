@@ -194,7 +194,7 @@
 //	cout << "TRES EN RAYA/TIC TAC TOE" << endl << endl;
 //	cout << "CREADOR: JOSEPH ALEXIS HUAMANI MANDUJANO" << endl;
 //	cout << "CODIGO: U20221A133" << endl;
-//	cout << "NICKNAME: HACKER PRO NERKSITO MASNAKY" << endl;
+//	cout << "NICKNAME: Nerk" << endl;
 //	cout << "ENTER PARA VOLVER AL MENU.....";
 //	rlutil::anykey();
 //	rlutil::cls();
